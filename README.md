@@ -84,13 +84,13 @@ Business Insights & Strategic Recommendations
 
 ## Revenue & Usage Analysis
 
-![Revenue & Usage Analysis](images/revenue_usage.png)
+![Revenue & Usage Analysis](images/revenue_usage_analysis.png)
 
 ---
 
 ## Customer Churn Analysis
 
-![Customer Churn Analysis](images/customer_churn.png)
+![Customer Churn Analysis](images/customer_churn_analysis.png)
 
 ---
 
