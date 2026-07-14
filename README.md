@@ -68,7 +68,7 @@ Business Insights & Strategic Recommendations
 
 # 📈 Dashboard Preview
 
-> *(Replace the placeholders below with your dashboard screenshots after adding them to the `images/` folder.)*
+
 
 ## Executive Overview
 
