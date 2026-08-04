@@ -1,17 +1,17 @@
-# 📊 Telecom Customer Intelligence Platform
+#  Telecom Customer Intelligence Platform
 
 An end-to-end **Telecom Customer Analytics** project that transforms raw telecom customer data into actionable business insights using **Python, PostgreSQL, SQL, Power BI, and GitHub**. The project follows a real-world analytics workflow from exploratory data analysis and data modeling to executive dashboards and strategic business recommendations.
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 Telecommunication companies often experience significant revenue loss due to customer churn, ineffective customer segmentation, and limited visibility into customer behavior. Business teams require a centralized analytics solution to understand customer value, identify churn drivers, monitor business KPIs, and make data-driven retention decisions.
 This project simulates the role of a **Business/Data Analyst** by designing an end-to-end analytics solution that converts raw telecom data into executive-ready dashboards and strategic business recommendations.
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 - Identify customers at high risk of churn.
 - Analyze customer segmentation and revenue distribution.
@@ -23,7 +23,7 @@ This project simulates the role of a **Business/Data Analyst** by designing an e
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Raw Telecom Dataset
@@ -52,7 +52,7 @@ Business Insights & Strategic Recommendations
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -66,7 +66,7 @@ Business Insights & Strategic Recommendations
 
 ---
 
-# 📈 Dashboard Preview
+# Dashboard Preview
 
 
 
@@ -106,7 +106,7 @@ Business Insights & Strategic Recommendations
 
 ---
 
-# 📊 Key Business KPIs
+# Key Business KPIs
 
 - Total Customers
 - Total Revenue
@@ -119,7 +119,7 @@ Business Insights & Strategic Recommendations
 
 ---
 
-# 📌 Dashboard Highlights
+#  Dashboard Highlights
 
 The Power BI dashboard consists of six analytical pages:
 
@@ -145,13 +145,13 @@ The Power BI dashboard consists of six analytical pages:
 
 ---
 
-# 📒 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 The complete exploratory data analysis is available in the notebook below.
 
-📓 **EDA Notebook**
+ **EDA Notebook**
 
-➡️ [Telecom Customer EDA Notebook](notebooks/Telecom_Customer_EDA.ipynb)
+ [Telecom Customer EDA Notebook](notebooks/Telecom_Customer_EDA.ipynb)
 
 The notebook includes:
 
@@ -168,7 +168,7 @@ The notebook includes:
 
 ---
 
-# 🗄️ SQL Analytics Pipeline
+#  SQL Analytics Pipeline
 
 The SQL implementation follows a layered analytics architecture consisting of:
 
@@ -183,7 +183,7 @@ The SQL implementation follows a layered analytics architecture consisting of:
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 - Month-to-Month contract customers exhibit the highest churn rate.
 - Fiber Optic customers contribute the highest revenue loss.
@@ -195,7 +195,7 @@ The SQL implementation follows a layered analytics architecture consisting of:
 
 ---
 
-# 🚀 Business Recommendations
+#  Business Recommendations
 
 Based on the analysis, the following strategies are recommended:
 
@@ -208,7 +208,7 @@ Based on the analysis, the following strategies are recommended:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Telecom-Customer-Intelligence/
@@ -246,19 +246,19 @@ Telecom-Customer-Intelligence/
 
 ---
 
-# 📁 Project Files
+#  Project Files
 
 | File | Description |
 |------|-------------|
-| 📓 [EDA Notebook](notebooks/Telecom_Customer_EDA.ipynb) | Exploratory Data Analysis |
-| 📊 [Power BI Dashboard](powerbi/telecom_customer_dashboard.pbix) | Interactive Business Intelligence Dashboard |
-| 📑 [Presentation](presentation/) | Final Business Presentation |
-| 🗄️ [SQL Scripts](database/) | Database Design, Analytics Queries & KPIs |
-| 📚 [Documentation](docs/) | Project Documentation |
+|  [EDA Notebook](notebooks/Telecom_Customer_EDA.ipynb) | Exploratory Data Analysis |
+|  [Power BI Dashboard](powerbi/telecom_customer_dashboard.pbix) | Interactive Business Intelligence Dashboard |
+|  [Presentation](presentation/) | Final Business Presentation |
+|  [SQL Scripts](database/) | Database Design, Analytics Queries & KPIs |
+|  [Documentation](docs/) | Project Documentation |
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Deploy dashboard using Power BI Service.
 - Integrate Machine Learning based churn prediction.
@@ -268,7 +268,7 @@ Telecom-Customer-Intelligence/
 
 ---
 
-# 🎯 Business Impact
+#  Business Impact
 
 This project demonstrates how modern data analytics can support strategic decision-making by:
 
@@ -280,7 +280,7 @@ This project demonstrates how modern data analytics can support strategic decisi
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Kanishka Tulya**
 
@@ -288,4 +288,3 @@ MCA Student | Data Analytics | Business Intelligence | SQL | Python | PostgreSQL
 
 ---
 
-⭐ *If you found this project interesting, consider giving it a star!*
