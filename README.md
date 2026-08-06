@@ -1,7 +1,11 @@
 #  Telecom Customer Intelligence Platform
 
-An end-to-end **Telecom Customer Analytics** project that transforms raw telecom customer data into actionable business insights using **Python, PostgreSQL, SQL, Power BI, and GitHub**. The project follows a real-world analytics workflow from exploratory data analysis and data modeling to executive dashboards and strategic business recommendations.
-
+Built an end-to-end Telecom Customer Analytics solution using IBM Telco Churn and Telecom Customer Usage datasets.
+Designed a layered PostgreSQL data warehouse with Raw → Staging → Intermediate → Analytics architecture.
+Performed data validation, cleaning, transformation, and feature engineering to prepare analysis-ready datasets.
+Developed analytical models combining customer demographics, usage, revenue, services, and churn data.
+Built interactive Power BI dashboards for Executive Overview, Customer Segmentation, Customer Experience, Revenue & Usage, and Churn Analysis.
+Developed business KPIs including Churn Rate, CLTV, Customer Satisfaction, Revenue, High-Value Customers, Usage Segments, and Revenue Segments.
 ---
 
 #  Business Problem
