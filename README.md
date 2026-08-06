@@ -6,8 +6,11 @@ An end-to-end **Telecom Customer Analytics** project that transforms raw telecom
 
 #  Business Problem
 
-Telecommunication companies often experience significant revenue loss due to customer churn, ineffective customer segmentation, and limited visibility into customer behavior. Business teams require a centralized analytics solution to understand customer value, identify churn drivers, monitor business KPIs, and make data-driven retention decisions.
-This project simulates the role of a **Business/Data Analyst** by designing an end-to-end analytics solution that converts raw telecom data into executive-ready dashboards and strategic business recommendations.
+- Identified key telecom business challenges including customer churn, poor segmentation, and revenue loss.
+- Built an end-to-end analytics solution to transform raw telecom data into actionable business insights.
+- Developed executive dashboards to monitor customer behavior, KPIs, and business performance.
+- Analyzed churn drivers and customer value to support data-driven retention strategies.
+- Enabled business teams to make informed decisions through centralized analytics and reporting.
 
 ---
 
