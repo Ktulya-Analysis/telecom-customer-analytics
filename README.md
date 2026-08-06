@@ -1,6 +1,6 @@
 #  Telecom Customer Intelligence Platform
 
-## Project Highlights
+# Project Highlights
 
 • End-to-end Telecom Customer Analytics solution using 4 telecom datasets (~307K+ records) covering customer demographics, usage, revenue, services, and churn data.
 • Layered PostgreSQL data warehouse following Raw → Staging → Intermediate → Analytics architecture.
