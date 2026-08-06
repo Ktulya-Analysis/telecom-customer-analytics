@@ -1,11 +1,15 @@
 #  Telecom Customer Intelligence Platform
 
-Built an end-to-end Telecom Customer Analytics solution using IBM Telco Churn and Telecom Customer Usage datasets.
-Designed a layered PostgreSQL data warehouse with Raw → Staging → Intermediate → Analytics architecture.
-Performed data validation, cleaning, transformation, and feature engineering to prepare analysis-ready datasets.
-Developed analytical models combining customer demographics, usage, revenue, services, and churn data.
-Built interactive Power BI dashboards for Executive Overview, Customer Segmentation, Customer Experience, Revenue & Usage, and Churn Analysis.
-Developed business KPIs including Churn Rate, CLTV, Customer Satisfaction, Revenue, High-Value Customers, Usage Segments, and Revenue Segments.
+## Project Highlights
+
+• End-to-end Telecom Customer Analytics solution using 4 telecom datasets (~307K+ records) covering customer demographics, usage, revenue, services, and churn data.
+• Layered PostgreSQL data warehouse following Raw → Staging → Intermediate → Analytics architecture.
+• Data validation, relationship checks, data cleaning, transformation and feature engineering to create analysis-ready datasets.
+• Analytical models integrating customer, usage, service, and churn data for business reporting and KPI analysis.
+• Built interactive 6 Power BI dashboards for Executive Overview, Customer Segmentation, Customer Experience, Revenue & Usage, and Customer Churn Analysis.
+• Developed business KPIs including Churn Rate, Customer Lifetime Value (CLTV), Customer Satisfaction, Revenue, High-Value Customers, Usage Segments, and Revenue Segments.
+• Delivered business recommendations to support customer retention, revenue optimization, customer segmentation, and customer experience improvement.
+
 ---
 
 #  Business Problem
