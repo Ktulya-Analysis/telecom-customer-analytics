@@ -171,11 +171,7 @@ The notebook includes:
 - Missing Value Analysis
 - Exploratory Data Analysis
 - Customer Segmentation
-- Revenue Analysis
-- Churn Analysis
-- Feature Engineering
-- Business Insights
-- Data Visualization
+
 
 ---
 
