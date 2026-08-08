@@ -187,6 +187,11 @@ The SQL implementation follows a layered analytics architecture consisting of:
 - Business KPI Development
 - Dashboard Views
 - Advanced Analytics Queries
+- Revenue Analysis
+- Churn Analysis
+- Feature Engineering
+- Business Insights
+- Data Visualization
 
 ---
 
