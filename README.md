@@ -130,21 +130,6 @@ Business Insights & Strategic Recommendations
 
 ---
 
-### Dashboard Features
-
-- Interactive KPI Cards
-- Dynamic Slicers
-- Drill-down Analysis
-- Business KPI Monitoring
-- Cross-filtering
-- Executive Storytelling Dashboard
-- Customer Segmentation
-- Revenue Analysis
-- Churn Analysis
-- Business Recommendation Dashboard
-
----
-
 #  Exploratory Data Analysis
 
 The complete exploratory data analysis is available in the notebook below.
@@ -152,15 +137,6 @@ The complete exploratory data analysis is available in the notebook below.
  **EDA Notebook**
 
  [Telecom Customer EDA Notebook](notebooks/Telecom_Customer_EDA.ipynb)
-
-The notebook includes:
-
-- Data Understanding
-- Data Cleaning
-- Missing Value Analysis
-- Exploratory Data Analysis
-- Customer Segmentation
-
 
 ---
 
