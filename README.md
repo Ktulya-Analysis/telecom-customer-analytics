@@ -130,17 +130,6 @@ Business Insights & Strategic Recommendations
 
 ---
 
-#  Dashboard Highlights
-
-The Power BI dashboard consists of six analytical pages:
-
-- Executive Overview
-- Customer Segmentation
-- Revenue & Usage Analysis
-- Customer Churn Analysis
-- Customer Experience Analysis
-- Business Recommendations
-
 ### Dashboard Features
 
 - Interactive KPI Cards
