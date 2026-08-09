@@ -237,8 +237,6 @@ Telecom-Customer-Intelligence/
 
 #  Future Improvements
 
-- Deploy dashboard using Power BI Service.
-- Integrate Machine Learning based churn prediction.
 - Automate ETL workflows.
 - Enable real-time dashboard refresh.
 - Develop executive reporting automation.
