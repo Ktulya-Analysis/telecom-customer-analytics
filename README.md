@@ -29,7 +29,6 @@
 - Measure customer satisfaction and usage behavior.
 - Discover key factors influencing customer churn.
 - Quantify revenue loss caused by customer attrition.
-- Build interactive dashboards for business monitoring.
 - Recommend business strategies to improve customer retention.
 
 ---
